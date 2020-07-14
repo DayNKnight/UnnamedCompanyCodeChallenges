@@ -1,0 +1,4 @@
+*.txt
+*/.vscode/*
+*.csv
+output
